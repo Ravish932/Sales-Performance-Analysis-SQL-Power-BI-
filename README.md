@@ -4,7 +4,8 @@ This project explores a retail sales dataset using **SQL Server** for data analy
 
 ## Dashboard Preview
 
-![Sales Dashboard Preview](Screenshot 2025-04-23 111259.png)
+![Sales Dashboard Preview](dashboard_preview.png
+)
 
 ---
 
