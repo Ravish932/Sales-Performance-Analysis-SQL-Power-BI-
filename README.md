@@ -2,6 +2,10 @@
 
 This project explores a retail sales dataset using **SQL Server** for data analysis and **Power BI** for visualizations. The goal is to extract actionable business insights across countries, products, and sales teams.
 
+## Dashboard Preview
+
+![Sales Dashboard Preview](Screenshot 2025-04-23 111259.png)
+
 ---
 
 ## 🛠 Tools & Technologies
