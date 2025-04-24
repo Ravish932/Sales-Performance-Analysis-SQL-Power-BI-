@@ -43,7 +43,7 @@ Each table contains sales-related columns:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project shows how to combine **SQL** and **Power BI** for effective data analysis and storytelling. SQL handled the heavy lifting of data prep and analysis, while Power BI provided a visual and interactive platform to communicate insights clearly.
 
@@ -52,9 +52,9 @@ This project shows how to combine **SQL** and **Power BI** for effective data an
 ##  Author
 
 **Ravish Kumar**  
-📍 Patna, Bihar  
-💼 Data Analyst – SQL | Python | Power BI  | Excel
-🔗 [LinkedIn](https://www.linkedin.com/feed/) | 📬 [Email](ravishkumar56911@gmail.com)
+  Patna, Bihar  
+  Data Analyst – SQL | Python | Power BI  | Excel
+🔗 [LinkedIn](https://www.linkedin.com/in/ravish-kumar-b180812b0/) | 📬 [Email](ravishkumar56911@gmail.com)
 
 ---
 
